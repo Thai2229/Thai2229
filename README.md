@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=thai2229&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F95368279%3Fu%3Ddecfd0161defed2aaf9633c3c3574b636b76d1eb%26v%3D4" alt="thai2229 hero visual" />
-</p>
-
-**thai2229** · Frontend or full-stack engineer
-
 ## About
 
 Building useful things and learning in public.
