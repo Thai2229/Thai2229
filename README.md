@@ -27,11 +27,3 @@ Building useful things and learning in public.
 <p align="center">
   <img src="https://www.gitskins.com/api/section/projects?username=thai2229&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F95368279%3Fu%3Ddecfd0161defed2aaf9633c3c3574b636b76d1eb%26v%3D4" alt="thai2229 projects visual" />
 </p>
-
-## Contact
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=thai2229&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F95368279%3Fu%3Ddecfd0161defed2aaf9633c3c3574b636b76d1eb%26v%3D4" alt="thai2229 social visual" />
-</p>
-
-<a href="https://github.com/thai2229">GitHub</a>
