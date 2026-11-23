@@ -13,9 +13,3 @@ Building useful things and learning in public.
 <table>
 <tr><td align="center"><b>10</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>227</b><br/><sub>contributions</sub></td></tr>
 </table>
-
-## Projects
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=thai2229&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F95368279%3Fu%3Ddecfd0161defed2aaf9633c3c3574b636b76d1eb%26v%3D4" alt="thai2229 projects visual" />
-</p>
