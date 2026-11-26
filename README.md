@@ -1,8 +1,7 @@
 ## About
 
-Building useful things and learning in public.
+Building things and trying to improve a little bit everyday!
 
-- 👥 **2** followers · **1** following
 
 ## Stack
 
